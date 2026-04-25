@@ -53,8 +53,8 @@ To validate the findings from the EDA, three tree-based classification models we
 ├── data/
 │   └── student_health_data.csv       # Raw dataset 
 ├── notebooks/
-│   ├── 01_Clean_and_EDA.ipynb        # Data cleaning and exploratory analysis
-│   └── 02_Tree_Based_Models.ipynb    # Machine learning and feature importance
+│   ├── student_health_EDA.ipynb        # Data cleaning and exploratory analysis
+│   └── student_health_Trees.ipynb    # Machine learning and feature importance
 ├── README.md                         # Project overview and insights
 ```
 
